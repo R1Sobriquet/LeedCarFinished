@@ -1,5 +1,3 @@
----
-
 # 🚗✨ README — Site Web de Location de Voitures & Taxis (React)
 
 ## 📄 Description du Projet
@@ -18,8 +16,6 @@ Le site permet aux utilisateurs de :
 * Effectuer des paiements (selon l’intégration choisie)
 
 Le design suit une **charte luxueuse noir + jaune (#e0a31b)** pour une identité raffinée.
-
----
 
 ## 🛠️ Technologies utilisées
 
