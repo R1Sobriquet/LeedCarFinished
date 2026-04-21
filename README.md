@@ -233,6 +233,6 @@ Le thème visuel suit une identité **luxueuse** :
 
 ## 📜 Licence
 
-Ce projet est disponible sous licence libre (MIT ou autre selon ton choix).
+Ce projet est disponible sous licence libre.
 
 ---
